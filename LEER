@@ -1,0 +1,14 @@
+### Post Instalación de VOID para escritorio Mate
+
+1. Dar permisos de Ejecución a MadVM.sh
+chmod +x MadVM.sh
+
+2. Ejectura el Script
+./MadVM.sh
+
+NOTA:
+El script pide clave de usuario que pueda ejecutar comandos a travez de SUDO
+esta clave puede ser vuelta a pedir si entre cada ejecucion de sudo transucurre demasiado tiempo.
+
+Para poder utilizar el PowerMenu del Polybar agregar el usuario al grupo powwer
+reducir vm.swappiness a 2 agregando 'vm.swappiness=2' a /etc/sysctl.conf

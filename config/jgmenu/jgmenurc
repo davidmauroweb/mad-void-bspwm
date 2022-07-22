@@ -1,0 +1,17 @@
+menu_width          = 120
+menu_margin_y       = 18
+menu_margin_x       = 10
+menu_padding_top    = 3
+menu_padding_right  = 3
+menu_padding_bottom = 3
+menu_padding_left   = 3
+menu_radius         = 5
+menu_valign         = top
+sub_spacing         = 4
+item_margin_x       = 1
+item_margin_y       = 1
+item_height         = 17
+sep_height          = 4
+icon_size           = 15
+arrow_width         = 8
+color_menu_bg	    = #111133 90

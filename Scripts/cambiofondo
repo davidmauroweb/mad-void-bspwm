@@ -1,0 +1,5 @@
+# Este Script se ejecuta al iniciar bspwm y coloca el fondo de pantalla
+# Usa imagen de fondo por defecto
+feh --recursive --bg-fill $HOME/Fondosvs/bg.jpg
+# Tomar imagen random en ~/Fondosvs
+#feh --recursive --bg-fill --randomize $HOME/Fondosvs/*
