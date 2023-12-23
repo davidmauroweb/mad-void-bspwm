@@ -33,7 +33,7 @@ fi
 echo "actualizando el sistema"
 sudo xbps-install -Syyu
 echo "Instalando extras del sistema"
-sudo xbps-install -Sy at-spi2-core base-devel xtools p7zip xdg-user-dirs NetworkManager network-manager-applet xorg xinit gvfs gvfs-mtp elogind lightdm lightdm-gtk-greeter bspwm nano sxhkd polybar htop neofetch leafpad xarchiver octoxbps arc-icon-theme arc-theme feh picom font-Siji font-unifont-bdf font-FixedMisc terminator jgmenu arandr pcmanfm lxappearance volumeicon ImageMagick
+sudo xbps-install -Sy at-spi2-core base-devel xtools p7zip xdg-user-dirs NetworkManager network-manager-applet xorg xinit gvfs gvfs-mtp elogind lightdm lightdm-gtk-greeter bspwm nano sxhkd polybar htop neofetch leafpad xarchiver octoxbps arc-icon-theme arc-theme feh picom font-Siji font-unifont-bdf font-FixedMisc lxterminal jgmenu arandr pcmanfm lxappearance volumeicon ImageMagick
 echo " Fin de instalación de extras "
 echo "<Enter> para continuar"
 read al
