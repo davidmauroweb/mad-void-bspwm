@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	terminator
+	lxterminal
 
 # program launcher
 super + @space
